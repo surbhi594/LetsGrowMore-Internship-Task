@@ -1,3 +1,4 @@
-Task-1 of Lets Grow More 
+Tasks of Lets Grow More Internship 
 
-Single Page website made by HTML,CSS,Bootstrap and JS.
+ Task 1 is to make Single Page website made by HTML,CSS,Bootstrap and JS.
+ Task 2 is to create react app and fetch the data from the API 
